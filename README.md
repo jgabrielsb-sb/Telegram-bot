@@ -17,6 +17,7 @@
   - A data de entrada e saida deve ser dada no formato "DIA/MÊS/ANO"
   Por exemplo: suponha que, inicialmente, temos 2 membros no grupo. O primeiro deles é jgabriel, de número de celular 11223344, data de entrada 01/03/2024, data de saida 01/04/2024 e seu pagemento foi feito no picpay. O segundo é jorge, de numero 55667788, data de entrada 20/02/2024, data de saida 20/03/2024 e seu pagamento foi realizado no mercadopago. Sendo assim, o arquivo deveria estar organizado da seguinte forma:
 ['jgabriel', '11223344', '01/02/2024', '01/03/2024', 'picpay']
+
 ['jorge', '55667788', '20/02/2024', '20/03/2024', 'mercadopago']
 
   # 3. Comandos do BOT
